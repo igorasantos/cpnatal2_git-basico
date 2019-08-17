@@ -1,0 +1,122 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Git Básico e alguns serviços</title>
+
+		<link rel="stylesheet" href="css/reset.css">
+		<link rel="stylesheet" href="css/reveal.css">
+		<!--<link rel="stylesheet" href="css/theme/black.css">-->
+		<link rel="stylesheet" href="css/theme/night.css" id="theme">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/monokai.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+					<img style="border: 0;background-color: transparent;margin:0;width: 15rem" src="icons/git.svg" alt="Git's logo">
+					<h3>Git básico e alguns serviços</h3>
+				</section>
+				<section>
+					<section>
+						<h3>O que é</h3>
+						<ul>
+							<li>Controle de <a>versionamento</a></li>
+							<li class="fragment">Monitora <a>arquivos</a></li>							
+						</ul>
+					</section>
+					<section>
+						<h3>Versiona o que?</h3>
+						<ul>
+							<li>Conteúdo</li>
+							<li>Quem</li>
+							<li>Quando <span class="fragment">/ <a>história</a> dos arquivos</span></li>
+						</ul>
+					</section>
+					<section>
+						<h3>Vantagens</h3>
+						<ul>
+							<li>Arquiva informação</li>
+							<li>Possibilidade de <a>"voltar" versões</a></li>
+							<li>Trabalho em <a>equipe</a> organizado</li>
+							<li>Possibilidade de colaborar em grandes projetos</li>
+							<li>Muitos serviços de TI o usa</li>
+						</ul>
+					</section>
+					<section>
+						<h3>Desvantagens</h3>
+						<ul>
+							<li>Dificuldade inicial</li>
+							<li>Risco do usuário <a>"quebrar"</a> a árvore</li>
+							<li>Falta de padronização da equipe</li>
+						</ul>
+					</section>
+				</section>	
+				<section>					
+					<h3>Pra quem?</h3>
+					<ul>
+						<li class="fragment">Programadores <a>(serviços / FOSS)</a></li>
+						<li class="fragment">Designers <a>(artes vetoriais)</a></li>
+						<li class="fragment">Professores <a>(disciplinas e <em>coding challenges</em>)</a></li>
+						<li class="fragment">Pesquisadores <a>(relatórios acadêmicos)</a></li>
+						<li class="fragment">Escritores <a>(livros)</a></li>
+						<li class="fragment">Empresas <a>(<em>hiring challenges</em>)</a></li>
+						<li class="fragment">Advogados e <a>governos</a></li>
+						<li class="fragment">...</li>
+					</ul>					
+				</section>
+				<section>
+					<h3>Como funciona</h3>
+					<p>
+						<a class="fragment">As áreas do repositório</a>
+					</p>					
+					<p class="fragment">Workspace <a>•</a> Staging Area <a>•</a> Local Repo</p>
+					<p class="fragment"><a>•</a> Remote Repo</p>					
+				</section>
+				<section data-background="#dddddd">
+					<h3>Como funciona</h3>
+					<p>
+						<a>As áreas do repositório</a>
+					</p>
+					<img src="http://interactionprototyping.github.io/exercises/images/github/git-stages.svg" style="height: 60vh;margin-bottom:0;border:0">
+					<p style="font-size: 1rem;margin-top:0"><a href="http://interactionprototyping.github.io/exercises/" targe="_blank">Source</p>
+				</section>
+				<section>
+					<h3>Como funciona</h3>
+					<p>
+						<a class="fragment">As <em>branches</em> (ramos)</a>
+					</p>
+				</section>
+				
+			</div>
+		</div>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true }
+				]
+			});
+		</script>
+	</body>
+</html>
