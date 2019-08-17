@@ -6,5 +6,5 @@ Esse workshop sobre [Git](https://pt.wikipedia.org/wiki/Git) será ministrado po
 Mais informações [aqui](Slides.md).
 
 # Explicações de prática de comandos
-Mais informações [aqui](Commands.md).
+Mais informações [aqui](Commands_client.md).
 
