@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Logos"
+   width="62.371586"
+   height="56.130333"
+   viewBox="0 0 62.371587 56.130333"
+   version="1.1"
+   sodipodi:docname="bitbucket.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata40">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>bitbucket-logo-gradient-white</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="741"
+     id="namedview38"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.71355119"
+     inkscape:cx="-0.36844247"
+     inkscape:cy="25.450166"
+     inkscape:window-x="0"
+     inkscape:window-y="6"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Logos" />
+  <defs
+     id="defs9">
+    <style
+       id="style2">.cls-1{fill:none;}.cls-2{fill:url(#linear-gradient);}.cls-3{fill:#fff;}</style>
+    <linearGradient
+       id="linear-gradient"
+       x1="68.120003"
+       y1="71.349998"
+       x2="38.759998"
+       y2="91.220001"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-5.9742071,-44.319834)">
+      <stop
+         offset="0.07"
+         stop-color="#fff"
+         stop-opacity="0.4"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#fff"
+         id="stop6" />
+    </linearGradient>
+  </defs>
+  <title
+     id="title11">bitbucket-logo-gradient-white</title>
+  <polygon
+     class="cls-1"
+     points="46.85,63.19 27.18,63.19 30.66,81.57 43.71,81.57 "
+     id="polygon13"
+     style="fill:none"
+     transform="translate(-5.9742071,-44.319834)" />
+  <path
+     class="cls-2"
+     d="m 59.655793,18.870166 h -18.78 l -3.14,18.38 h -13 l -15.3600001,18.23 a 2.75,2.75 0 0 0 1.7600001,0.65 h 40.73 a 2,2 0 0 0 2,-1.68 z"
+     id="path15"
+     inkscape:connector-curvature="0"
+     style="fill:url(#linear-gradient)" />
+  <path
+     class="cls-3"
+     d="M 2.0257929,1.6632583e-4 A 2,2 0 0 0 0.02579294,2.3201663 L 8.4857929,53.860166 a 2.69,2.69 0 0 0 0.91,1.61 v 0 a 2.75,2.75 0 0 0 1.7600001,0.65 l 15.73,-18.87 h -2.2 l -3.48,-18.38 h 38.45 l 2.69,-16.5399997 a 2,2 0 0 0 -2,-2.31999997 z"
+     id="path17"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+</svg>
