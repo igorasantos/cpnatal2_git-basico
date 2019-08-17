@@ -4,7 +4,7 @@ Esse workshop sobre [Git](https://pt.wikipedia.org/wiki/Git) será ministrado po
 
 ## Como visualizar a apresentação?
 
-Encontre os slides dinâmicos (animados) [aqui](https://igorasantos.github.io/cpnatal2_git-basico/index.html).
+Encontre os slides dinâmicos (animados) [aqui](https://igorasantos.github.io/cpnatal2_git-basico).
 
 ## Como usar?
 
