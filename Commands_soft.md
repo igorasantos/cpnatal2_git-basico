@@ -1,4 +1,4 @@
-# Comandos de Git no lado cliente
+# Comandos de software Git
 
 Os comandos aqui usados não são necessariamente os mais rápidos de se praticar diariamente (há alguns que agrupam fases diferentes em uma mesma linha de comando). Mas para uma prática iniciante, vamos utilizar estes mesmo.
 
@@ -32,7 +32,6 @@ Inicie um repositório e verifique sua situação (ao usar Git diariamente, voc�
 git init
 git status
 ```
-OBS: quando estiver nos [Serviços de Git](#servicos-de-git), retorne aqui.
 
 ### Adicione um arquivo de teste
 Agora crie um arquivo de texto em linguagem de marcação [Markdown](https://daringfireball.net/projects/markdown/) *(a linguagem que os repositórios dos serviços Git usam para renderizar texto)* chamado `README.md`:
