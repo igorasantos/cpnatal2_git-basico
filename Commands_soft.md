@@ -144,9 +144,9 @@ Commite-o:
 git commit -m "test on test branch"
 ```
 
-Agora retorne à branch master:
+Agora retorne à branch main:
 ```bash
-git checkout master
+git checkout main
 ```
 
 Verifique a branch atual:
@@ -160,7 +160,7 @@ git status
 git log --oneline --graph --all
 ```
 
-Agora implemente as mudanças da branch teste (uma nova funcionalidade que passou pelos testes e demais fases de implementação) na branch master:
+Agora implemente as mudanças da branch teste (uma nova funcionalidade que passou pelos testes e demais fases de implementação) na branch main:
 ```bash
 git merge teste
 ```

@@ -56,9 +56,9 @@ git remote -v
 ## Recuperando o repositório remoto para o seu local
 Antes de começar a trabalhar localmente no projeto, execute:
 ```bash
-git pull origin master
+git pull origin main
 ```
-Isso significa: "Git, puxe do repositório remoto que chamei (por padrão) de 'origin' a branch master, pra branch master no meu repositório local".
+Isso significa: "Git, puxe do repositório remoto que chamei (por padrão) de 'origin' a branch main, pra branch main no meu repositório local".
 
 ## Agora sim, pode trabalhar!
 Esse é o momento, considerando um fluxo de trabalho sozinho, em que tudo bem começar a realizar edições no projeto.
@@ -77,8 +77,8 @@ Ok, o comando é simplesmente:
 git push <nome do repositório remoto> <nome da branch que quer atualizar remotamente>
 ``` 
 
-Se for a branch master e o padrão:
+Se for a branch main e o padrão:
 ```bash
-git push origin master
+git push origin main
 ```
-Isso significa: "Git, mande para o repositório remoto que chamei de 'origin' a branch master, a partir da branch master do meu repositório local".
+Isso significa: "Git, mande para o repositório remoto que chamei de 'origin' a branch main, a partir da branch main do meu repositório local".
